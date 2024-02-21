@@ -26,7 +26,7 @@ SECRET_KEY = '1234567890'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [localhost,xgg0c0o.172.104.32.156.sslip.io/]
 
 
 # Application definition
